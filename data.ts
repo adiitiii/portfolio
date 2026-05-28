@@ -53,7 +53,7 @@ export const personalInfo: PersonalInfo = {
 	title: "Software Developer",
 	email: "https://mail.google.com/mail/?view=cm&to=adimaheshwari2207@gmail.com",
 	resumeUrl:
-		"https://drive.google.com/file/d/1jeNdvAbg6MNyMY2CIT9jQybAAy_45rEA/view?usp=sharing",
+		"https://drive.google.com/file/d/1ZEEMxwQvbkxvwOSeL0UCFuDOA6xhgkvM/view?usp=drive_link",
 	resumeFilename: "Aditi_Maheshwari_Resume.pdf",
 };
 
@@ -85,10 +85,10 @@ export const socialLinks: SocialLink[] = [
 	},
 	{
 		name: "Resume",
-		href: "https://drive.google.com/file/d/1jeNdvAbg6MNyMY2CIT9jQybAAy_45rEA/view?usp=sharing",
+		href: "https://drive.google.com/file/d/1ZEEMxwQvbkxvwOSeL0UCFuDOA6xhgkvM/view?usp=drive_link",
 		icon: FileTextIcon,
 		download:
-			"https://drive.google.com/file/d/1jeNdvAbg6MNyMY2CIT9jQybAAy_45rEA/view?usp=sharing",
+			"https://drive.google.com/file/d/1ZEEMxwQvbkxvwOSeL0UCFuDOA6xhgkvM/view?usp=drive_link",
 	},
 ];
 
